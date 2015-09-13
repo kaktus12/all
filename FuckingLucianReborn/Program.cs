@@ -360,5 +360,8 @@ namespace FuckingLucianReborn
             var t = TargetSelector.GetTarget(700, TargetSelector.DamageType.Physical);
             _w.Cast(t);
         }
+            Game.PrintChat("<b><font color=\"#FF00BF\">Fucking</font><font color=\"#FFFF00\">Morgana</font> <font color=\"#F5ECCE\">by</font> <font color=\"#FF0000\">folx</font> </b>");
+            Game.PrintChat("<b><font color=\"#00FF00\">github.com/folxu/folxuSharp</font></b>");
+            Game.PrintChat("<b><font color=\"#8000FF\">GL HF !</font></b>");
     }
 }
